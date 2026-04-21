@@ -1,1 +1,2 @@
 The SonarQube binary is compiled with a higher Java version than the runtime. Fix is either upgrading JDK or using a compatible SonarQube version.”
+we will explore how to set up a Jenkins CI/CD pipeline using Github, Sonarqube, and Docker on an AWS EC2 instance.
